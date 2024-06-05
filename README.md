@@ -6,7 +6,7 @@
   
 
 ### Something I will use
-- Native Language: English, Mandarin and Contonese.
+- Natural Language: English, Mandarin and Contonese.
 - Develop Language: Kotlin, Java, Dart and Python.
 - Focus on Backend Framework: Springboot, Ktor.
 - Focus on Mobile Framework: Android and Flutter.
