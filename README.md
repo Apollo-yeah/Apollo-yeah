@@ -8,9 +8,10 @@
 ## Something I will use
 <img align="right" style="width: 300px; height: 225px; object-fit: cover;" alt="JPG" src="code-boy.jpg" />
 
+- Full Stack from Backend, ML, Web, Mobile, and so on.
 - Natural Language: English, Mandarin and Contonese.
-- Develop Language: Kotlin-***Most Favorite***, Java, Dart and Python.
-- Focus on Backend Framework: Springboot, Ktor.
+- Develop Language: Kotlin-***Most Favorite***, Java, JS and TS, Dart and Python.
+- Focus on Backend Framework: Python Tornado, Node.JS.
 - Focus on Mobile Framework: Android and Flutter.
 - Android UI Layout: View and [Jetpack Compose](https://developer.android.com/develop/ui/compose).
 - Focus on Deep Learning: [PyTorch](https://pytorch.org) and [TensorFlow](https://www.tensorflow.org/).
