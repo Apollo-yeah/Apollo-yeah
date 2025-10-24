@@ -1,7 +1,7 @@
 ## Hi there
 - A software engineer, focus on Google's new Tech and Apple's new Tech.
 - It's an older literary young man who likes to stay at home reading books or listening to rock.
-- Now I stay at Shenzhen, sometimes I will show up in Guangzhou or Hong Kong.
+- Now I stay at Zhongshan, sometimes I will show up in Guangzhou, Shenzhen and so on.
 - If you meet an one that is coding with a macbook in a coffee-shop from those cities, maybe that's me!
 - I can speak English, Mandarin and Contonese. You can communicate with me in all three languages.
 
