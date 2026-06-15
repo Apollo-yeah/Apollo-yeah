@@ -37,7 +37,7 @@
 - name: Vibe Coding
   level: 7.5
   group: core
-- name: Android性能分析
+- name: Android Performance Profiling
   level: 7.5
   group: core
 - name: Dart

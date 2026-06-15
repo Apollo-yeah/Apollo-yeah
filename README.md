@@ -20,92 +20,48 @@
 
 <table>
   <tr>
-    <td align="center" width="52"><img src="./img/icons/kotlin.svg" width="40" height="40" alt="Kotlin" /></td>
-    <td width="168"><b>Kotlin</b></td>
-    <td width="180">
-      <table cellpadding="0" cellspacing="0" width="100%"><tr>
-        <td bgcolor="#7F52FF" height="5" width="85%"></td>
-        <td bgcolor="#21262d" height="5" width="15%"></td>
-      </tr></table>
+    <td align="center" width="96">
+      <img src="./img/icons/kotlin.svg" width="48" height="48" alt="Kotlin" />
+      <br /><sub><b>Kotlin</b></sub>
+      <br /><sub>8.5</sub>
     </td>
-    <td align="right" width="36"><sub><b>8.5</b></sub></td>
+    <td align="center" width="96">
+      <img src="./img/icons/android.svg" width="48" height="48" alt="Android" />
+      <br /><sub><b>Android</b></sub>
+      <br /><sub>8.5</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./img/icons/jetpackcompose.svg" width="48" height="48" alt="Jetpack Compose" />
+      <br /><sub><b>Jetpack Compose</b></sub>
+      <br /><sub>8.5</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./img/icons/java.svg" width="48" height="48" alt="Java" />
+      <br /><sub><b>Java</b></sub>
+      <br /><sub>8.0</sub>
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="./img/icons/android.svg" width="40" height="40" alt="Android" /></td>
-    <td><b>Android</b></td>
-    <td>
-      <table cellpadding="0" cellspacing="0" width="100%"><tr>
-        <td bgcolor="#3DDC84" height="5" width="85%"></td>
-        <td bgcolor="#21262d" height="5" width="15%"></td>
-      </tr></table>
+    <td align="center" width="96">
+      <img src="./img/icons/compose-multiplatform.svg" width="48" height="48" alt="Compose Multiplatform" />
+      <br /><sub><b>Compose Multiplatform</b></sub>
+      <br /><sub>8.0</sub>
     </td>
-    <td align="right"><sub><b>8.5</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./img/icons/jetpackcompose.svg" width="40" height="40" alt="Jetpack Compose" /></td>
-    <td><b>Jetpack Compose</b></td>
-    <td>
-      <table cellpadding="0" cellspacing="0" width="100%"><tr>
-        <td bgcolor="#4285F4" height="5" width="85%"></td>
-        <td bgcolor="#21262d" height="5" width="15%"></td>
-      </tr></table>
+    <td align="center" width="96">
+      <img src="./img/icons/python.svg" width="48" height="48" alt="Python" />
+      <br /><sub><b>Python</b></sub>
+      <br /><sub>7.5</sub>
     </td>
-    <td align="right"><sub><b>8.5</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./img/icons/java.svg" width="40" height="40" alt="Java" /></td>
-    <td><b>Java</b></td>
-    <td>
-      <table cellpadding="0" cellspacing="0" width="100%"><tr>
-        <td bgcolor="#ED8B00" height="5" width="80%"></td>
-        <td bgcolor="#21262d" height="5" width="20%"></td>
-      </tr></table>
+    <td align="center" width="96">
+      <img src="./img/icons/vibecoding.svg" width="48" height="48" alt="Vibe Coding" />
+      <br /><sub><b>Vibe Coding</b></sub>
+      <br /><sub>7.5</sub>
     </td>
-    <td align="right"><sub><b>8.0</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./img/icons/compose-multiplatform.svg" width="40" height="40" alt="Compose Multiplatform" /></td>
-    <td><b>Compose Multiplatform</b></td>
-    <td>
-      <table cellpadding="0" cellspacing="0" width="100%"><tr>
-        <td bgcolor="#3DDC84" height="5" width="80%"></td>
-        <td bgcolor="#21262d" height="5" width="20%"></td>
-      </tr></table>
+    <td align="center" width="96">
+      <img src="./img/icons/android-profiler.svg" width="48" height="48" alt="Android Performance Profiling" />
+      <br /><sub><b>Android Performance</b></sub>
+      <br /><sub>7.5</sub>
     </td>
-    <td align="right"><sub><b>8.0</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./img/icons/python.svg" width="40" height="40" alt="Python" /></td>
-    <td><b>Python</b></td>
-    <td>
-      <table cellpadding="0" cellspacing="0" width="100%"><tr>
-        <td bgcolor="#3776AB" height="5" width="75%"></td>
-        <td bgcolor="#21262d" height="5" width="25%"></td>
-      </tr></table>
-    </td>
-    <td align="right"><sub><b>7.5</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./img/icons/vibecoding.svg" width="40" height="40" alt="Vibe Coding" /></td>
-    <td><b>Vibe Coding</b></td>
-    <td>
-      <table cellpadding="0" cellspacing="0" width="100%"><tr>
-        <td bgcolor="#6366F1" height="5" width="75%"></td>
-        <td bgcolor="#21262d" height="5" width="25%"></td>
-      </tr></table>
-    </td>
-    <td align="right"><sub><b>7.5</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./img/icons/android-profiler.svg" width="40" height="40" alt="Android性能分析" /></td>
-    <td><b>Android 性能分析</b></td>
-    <td>
-      <table cellpadding="0" cellspacing="0" width="100%"><tr>
-        <td bgcolor="#3DDC84" height="5" width="75%"></td>
-        <td bgcolor="#21262d" height="5" width="25%"></td>
-      </tr></table>
-    </td>
-    <td align="right"><sub><b>7.5</b></sub></td>
   </tr>
 </table>
 
@@ -113,92 +69,48 @@
 
 <table>
   <tr>
-    <td align="center" width="52"><img src="./img/icons/nextjs.svg" width="40" height="40" alt="Next.js" /></td>
-    <td width="168"><b>Next.js</b></td>
-    <td width="180">
-      <table cellpadding="0" cellspacing="0" width="100%"><tr>
-        <td bgcolor="#58a6ff" height="5" width="65%"></td>
-        <td bgcolor="#21262d" height="5" width="35%"></td>
-      </tr></table>
+    <td align="center" width="96">
+      <img src="./img/icons/nextjs.svg" width="48" height="48" alt="Next.js" />
+      <br /><sub><b>Next.js</b></sub>
+      <br /><sub>6.5</sub>
     </td>
-    <td align="right" width="36"><sub><b>6.5</b></sub></td>
+    <td align="center" width="96">
+      <img src="./img/icons/react.svg" width="48" height="48" alt="React" />
+      <br /><sub><b>React</b></sub>
+      <br /><sub>6.5</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./img/icons/typescript.svg" width="48" height="48" alt="TypeScript" />
+      <br /><sub><b>TypeScript</b></sub>
+      <br /><sub>6.5</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./img/icons/dart.svg" width="48" height="48" alt="Dart" />
+      <br /><sub><b>Dart</b></sub>
+      <br /><sub>6.5</sub>
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="./img/icons/react.svg" width="40" height="40" alt="React" /></td>
-    <td><b>React</b></td>
-    <td>
-      <table cellpadding="0" cellspacing="0" width="100%"><tr>
-        <td bgcolor="#58a6ff" height="5" width="65%"></td>
-        <td bgcolor="#21262d" height="5" width="35%"></td>
-      </tr></table>
+    <td align="center" width="96">
+      <img src="./img/icons/flutter.svg" width="48" height="48" alt="Flutter" />
+      <br /><sub><b>Flutter</b></sub>
+      <br /><sub>6.5</sub>
     </td>
-    <td align="right"><sub><b>6.5</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./img/icons/typescript.svg" width="40" height="40" alt="TypeScript" /></td>
-    <td><b>TypeScript</b></td>
-    <td>
-      <table cellpadding="0" cellspacing="0" width="100%"><tr>
-        <td bgcolor="#58a6ff" height="5" width="65%"></td>
-        <td bgcolor="#21262d" height="5" width="35%"></td>
-      </tr></table>
+    <td align="center" width="96">
+      <img src="./img/icons/javascript.svg" width="48" height="48" alt="JavaScript" />
+      <br /><sub><b>JavaScript</b></sub>
+      <br /><sub>6.0</sub>
     </td>
-    <td align="right"><sub><b>6.5</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./img/icons/dart.svg" width="40" height="40" alt="Dart" /></td>
-    <td><b>Dart</b></td>
-    <td>
-      <table cellpadding="0" cellspacing="0" width="100%"><tr>
-        <td bgcolor="#58a6ff" height="5" width="65%"></td>
-        <td bgcolor="#21262d" height="5" width="35%"></td>
-      </tr></table>
+    <td align="center" width="96">
+      <img src="./img/icons/swift.svg" width="48" height="48" alt="Swift" />
+      <br /><sub><b>Swift</b></sub>
+      <br /><sub>5.0</sub>
     </td>
-    <td align="right"><sub><b>6.5</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./img/icons/flutter.svg" width="40" height="40" alt="Flutter" /></td>
-    <td><b>Flutter</b></td>
-    <td>
-      <table cellpadding="0" cellspacing="0" width="100%"><tr>
-        <td bgcolor="#58a6ff" height="5" width="65%"></td>
-        <td bgcolor="#21262d" height="5" width="35%"></td>
-      </tr></table>
+    <td align="center" width="96">
+      <img src="./img/icons/swiftui.svg" width="48" height="48" alt="SwiftUI" />
+      <br /><sub><b>SwiftUI</b></sub>
+      <br /><sub>5.0</sub>
     </td>
-    <td align="right"><sub><b>6.5</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./img/icons/javascript.svg" width="40" height="40" alt="JavaScript" /></td>
-    <td><b>JavaScript</b></td>
-    <td>
-      <table cellpadding="0" cellspacing="0" width="100%"><tr>
-        <td bgcolor="#58a6ff" height="5" width="60%"></td>
-        <td bgcolor="#21262d" height="5" width="40%"></td>
-      </tr></table>
-    </td>
-    <td align="right"><sub><b>6.0</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./img/icons/swift.svg" width="40" height="40" alt="Swift" /></td>
-    <td><b>Swift</b></td>
-    <td>
-      <table cellpadding="0" cellspacing="0" width="100%"><tr>
-        <td bgcolor="#58a6ff" height="5" width="50%"></td>
-        <td bgcolor="#21262d" height="5" width="50%"></td>
-      </tr></table>
-    </td>
-    <td align="right"><sub><b>5.0</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./img/icons/swiftui.svg" width="40" height="40" alt="SwiftUI" /></td>
-    <td><b>SwiftUI</b></td>
-    <td>
-      <table cellpadding="0" cellspacing="0" width="100%"><tr>
-        <td bgcolor="#58a6ff" height="5" width="50%"></td>
-        <td bgcolor="#21262d" height="5" width="50%"></td>
-      </tr></table>
-    </td>
-    <td align="right"><sub><b>5.0</b></sub></td>
   </tr>
 </table>
 
